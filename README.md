@@ -1,0 +1,3 @@
+# Implement-Client-Script-UI-Policy-Incident
+
+The Incident Client Script and UI Policy implementation automates and controls Incident form behavior by making fields mandatory, updating Urgency based on Impact, and controlling field accessibility. The configured Client Scripts also validate Incident submissions and prevent unauthorized State changes through list editing, ensuring consistent and accurate Incident data.
